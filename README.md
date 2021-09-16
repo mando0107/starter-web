@@ -13,3 +13,7 @@ ewdwedwedwedwedwedwedwedwedwedwed
 wadkpodkseopkfeposkfosekfosekfosekfoekofkso
 
 ## How To Contribute
+
+## Copyright
+
+2021 Git.Training.
